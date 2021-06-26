@@ -1,0 +1,45 @@
+  <div class="col-md-4 pt-3">
+                    <a href="https://www.knfilters.com/air-filters/indian" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
+                    <div class="card p-3" style="width: 18rem; height: 16rem;">
+                        <img src="../DFGSTUNTRIDING/Images/KN-plain.jpeg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <br><br>
+                          <h5 class="card-title text-center">K&N Filters India</h5>
+                        </div>
+                      </div></a>
+                </div>
+                <div class="col-md-4 pt-3">
+                    <a href="https://ulkagear.com/" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
+                    <div class="card p-3" style="width: 18rem; height: 16rem;">
+                        <img src="../DFGSTUNTRIDING/Images/ulka_logo.png" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <br>
+                          <h5 class="card-title text-center">Ulka Gear</h5>
+                        </div>
+                      </div></a>
+                </div>
+            </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 pt-3">
+                        <a href="https://www.nikkohelmetindia.com/" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
+                        <div class="card p-3" style="width: 18rem; height: 16rem;">
+                            <img src="../DFGSTUNTRIDING/Images/nikko_logo.png" class="card-img-top" alt="...">
+                            <div class="card-body">
+                            <br><br>
+                              <h5 class="card-title text-center">Nikko Helmets</h5>
+                            </div>
+                          </div></a>
+                    </div>
+                    <div class="col-md-4 pt-3">
+                        <a href="https://powertronicecu.com" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
+                        <div class="card p-3" style="width: 18rem; height: 16rem;">
+                            <img src="../DFGSTUNTRIDING/Images/powertronics_logo.jpeg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                              <h5 class="card-title text-center">Powertronics</h5>
+                            </div>
+                          </div></a>
+                    </div>
+                </div>
+            </div>
+        </div>

@@ -1,0 +1,190 @@
+.main-header{
+    background: #000;
+}
+.nav-item{
+    margin-left: -2em;
+}
+.navbar-toggler{
+    background: white;
+    color: black;
+}
+
+
+.btn{
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: .87em;
+}
+.logo-text{
+    font-size: 0.8em;
+    margin-left: 6.3em;
+    color: rgb(128, 128, 128);
+}
+.home-text{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1em;
+    font-weight: bold;
+    font-style: italic;
+    color: black;
+}
+
+.home-title{
+    font-size: 1.8em;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+.home-subtext{
+    color: darkcyan;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+
+}
+
+.about-body{
+    background: black;
+    padding-top: 1em;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+.social{
+    font-size: 1em;
+    font-weight: normal;
+    color: darkred;
+}
+.photo{
+    width: 26em;
+    height: 18.5em;
+}
+
+.photo-pot{
+    width: 26em;
+    height: 18em;
+}
+
+.photo-btn{
+    overflow: hidden;
+    cursor: pointer;
+}
+.photo-btn img{
+    transition: transform 1s ease-in-out;
+    
+}
+.photo-btn:hover img{
+    transform: scale(1.5) rotate(-20deg);
+    
+}
+.backgroud-img{
+    width: 100%;
+    height: 100%;
+    background: black;
+    background-image: url(../DFGSTUNTRIDING/Images/coming-soon5.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+.caption{
+    font-size: 1.2rem;
+    font-weight: bolder;
+    color: red;
+    margin-top: 1rem;   
+    margin-left: 7rem; 
+}
+.dfg-logo{
+    width: 20rem;
+    height: 8rem;
+    margin-left: 2rem;
+    margin-top: 8rem;
+    align-items: center;
+}
+.custom-message{
+    color: wheat;
+    margin-top: 9rem;
+    margin-left: 6rem;
+}
+.para-bottom{
+    color: red;
+    margin-left: 16rem;
+    font-weight: bold;
+}
+  
+* {
+    box-sizing: border-box;
+  }
+  
+  /* Style inputs */
+  input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  
+  input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  /* Style the container/contact section */
+  .container {
+    border-radius: 5px;
+    padding: 10px;
+  }
+  
+  /* Create two columns that float next to eachother */
+  .column {
+    float: left;
+    width: 50%;
+    margin-top: 6px;
+    padding: 20px;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+    .column, input[type=submit] {
+      width: 100%;
+      margin-top: 0;
+    }
+  }
+
+  .brands{
+      align-items: center;
+      color: white;
+      font-size: 2em;
+  }
+  .brand-title{
+    text-decoration: none;
+    color: black;
+    font-size: 1em;
+    font-weight: bold;
+  }
+  .brand-thumb{
+      height: 150px;
+      width: 230px;
+  }
+  .video-title{
+    text-decoration: none;
+    color: black;
+    font-size: 1em;
+    font-weight: bold;
+  }
+  .hover-shadow:hover {
+    box-shadow: 0 4px 8px 0 rgba(107, 107, 107, 0.884), 0 6px 20px 0 rgba(238, 236, 236, 0.884);
+  }
+
+  
